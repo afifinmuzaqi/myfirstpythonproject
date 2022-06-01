@@ -1,3 +1,3 @@
 # myfirstpythonproject
-call me izaqi this fisrt code with my python
+call me izaqi this first code with my python
 woiyaaaa
